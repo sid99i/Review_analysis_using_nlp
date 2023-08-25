@@ -47,4 +47,4 @@ Contributions are welcome! Feel free to enhance the features or fix any issues b
 
 ---
 
-*Note: This README provides an overview of the code's functionality and usage. For detailed implementation, please refer to the source code in `review_analysis_using_nlp1.py`.*
+*Note: This README provides an overview of the code's functionality and usage. For detailed implementation, please refer to the source code in `sentiment_analysis.py`.*
